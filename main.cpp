@@ -23,7 +23,12 @@
  *
  */
 
-
+void intro()
+{
+    cout << "Today, " << Delay(0, 0, 2, 0) << "You are a cell." << endl;
+    Delay(0, 0, 2, 0);
+    cout << "";
+}
 
 int main()
 {
@@ -36,7 +41,7 @@ int main()
      *
      */
 
-    while
+
 
     return 0;
 }

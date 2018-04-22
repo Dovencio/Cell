@@ -1,7 +1,8 @@
 #ifndef EGROUP_H
 #define EGROUP_H
 
-#include "Include.h"
+#include "Classheader.h"
+#include "Element.h"
 
 using namespace std;
 
@@ -13,14 +14,14 @@ class EGroup
 
         Element GetElement() { return element; }
         void SetElement(Element val) { element = val; }
-        string Getnum() { return num; }
-        void Setnum(string val) { num = val; }
+        int Getnum() { return num; }
+        void Setnum(int val) { num = val; }
 
     protected:
 
     private:
         Element element;
-        string num;
+        int num;
 };
 
 #endif // EGROUP_H

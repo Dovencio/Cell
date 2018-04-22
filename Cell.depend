@@ -5,24 +5,35 @@
 1524294940 c:\users\user\documents\programing\cell\cell.h
 	"Include.h"
 
-1524294976 c:\users\user\documents\programing\cell\include.h
+1524363863 c:\users\user\documents\programing\cell\include.h
 	<iostream>
 	<string>
+	<windows.h>
+	<conio.h>
 	"Element.h"
 	"EGroup.h"
 	"Compound.h"
 	"Cell.h"
 	"Enviroment.h"
 
-1524295084 c:\users\user\documents\programing\cell\element.h
-	"Include.h"
+1524364843 c:\users\user\documents\programing\cell\element.h
+	"Classheader.h"
 
-1524295242 c:\users\user\documents\programing\cell\egroup.h
-	"Include.h"
+1524364843 c:\users\user\documents\programing\cell\egroup.h
+	"Classheader.h"
+	"Element.h"
 
-1524295271 c:\users\user\documents\programing\cell\compound.h
-	"Include.h"
+1524364843 c:\users\user\documents\programing\cell\compound.h
+	"Classheader.h"
+	"EGroup.h"
 
-1524294940 c:\users\user\documents\programing\cell\enviroment.h
-	"Include.h"
+1524364843 c:\users\user\documents\programing\cell\enviroment.h
+	"Classheader.h"
+	"EGroup.h"
+
+1524259942 source:c:\users\user\documents\programing\cell\compound.cpp
+	"Compound.h"
+
+1524364842 c:\users\user\documents\programing\cell\classheader.h
+	<iostream>
 

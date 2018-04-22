@@ -1,7 +1,8 @@
 #ifndef ENVIROMENT_H
 #define ENVIROMENT_H
 
-#include "Include.h"
+#include "Classheader.h"
+#include "EGroup.h"
 
 class Enviroment
 {
