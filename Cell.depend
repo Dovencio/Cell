@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1524294397 source:c:\users\user\documents\programing\cell\cell.cpp
+	"Cell.h"
+
+1524294940 c:\users\user\documents\programing\cell\cell.h
+	"Include.h"
+
+1524294976 c:\users\user\documents\programing\cell\include.h
+	<iostream>
+	<string>
+	"Element.h"
+	"EGroup.h"
+	"Compound.h"
+	"Cell.h"
+	"Enviroment.h"
+
+1524295084 c:\users\user\documents\programing\cell\element.h
+	"Include.h"
+
+1524295242 c:\users\user\documents\programing\cell\egroup.h
+	"Include.h"
+
+1524295271 c:\users\user\documents\programing\cell\compound.h
+	"Include.h"
+
+1524294940 c:\users\user\documents\programing\cell\enviroment.h
+	"Include.h"
+
