@@ -6,6 +6,7 @@
 #include <string>
 #include <windows.h>
 #include <conio.h>
+#include <sstream>
 
 // Header files
 #include "Element.h"
@@ -15,11 +16,5 @@
 #include "Enviroment.h"
 
 using namespace std;
-
-void Delay(int h, int m, int s, int ms) // h, hours, m minuets, s seconds, ms milliseconds
-{
-    int totalMS = h*3600000+m*60000+s*1000+ms;
-    Sleep(totalMS);
-}
 
 #endif // INCLUDE_H_INCLUDED

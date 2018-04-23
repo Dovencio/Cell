@@ -13,7 +13,7 @@ class Enviroment
     protected:
 
     private:
-        EGroup Materials[60] = {};
+        EGroup Materials[60];
 };
 
 #endif // ENVIROMENT_H

@@ -5,11 +5,12 @@
 1524294940 c:\users\user\documents\programing\cell\cell.h
 	"Include.h"
 
-1524363863 c:\users\user\documents\programing\cell\include.h
+1524385145 c:\users\user\documents\programing\cell\include.h
 	<iostream>
 	<string>
 	<windows.h>
 	<conio.h>
+	<sstream>
 	"Element.h"
 	"EGroup.h"
 	"Compound.h"
@@ -27,7 +28,7 @@
 	"Classheader.h"
 	"EGroup.h"
 
-1524364843 c:\users\user\documents\programing\cell\enviroment.h
+1524365148 c:\users\user\documents\programing\cell\enviroment.h
 	"Classheader.h"
 	"EGroup.h"
 
@@ -36,4 +37,20 @@
 
 1524364842 c:\users\user\documents\programing\cell\classheader.h
 	<iostream>
+
+1524259290 source:c:\users\user\documents\programing\cell\egroup.cpp
+	"EGroup.h"
+
+1524259904 source:c:\users\user\documents\programing\cell\element.cpp
+	"Element.h"
+
+1524294498 source:c:\users\user\documents\programing\cell\enviroment.cpp
+	"Enviroment.h"
+
+1524388750 source:c:\users\user\documents\programing\cell\main.cpp
+	"Include.h"
+	"EleList.h"
+
+1524364535 c:\users\user\documents\programing\cell\elelist.h
+	"Include.h"
 
