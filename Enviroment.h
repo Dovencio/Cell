@@ -1,7 +1,8 @@
 #ifndef ENVIROMENT_H
 #define ENVIROMENT_H
 
-#include "Include.h"
+#include "Classheader.h"
+#include "EGroup.h"
 
 class Enviroment
 {
@@ -12,7 +13,7 @@ class Enviroment
     protected:
 
     private:
-        EGroup Materials[60] = {};
+        EGroup Materials[60];
 };
 
 #endif // ENVIROMENT_H
