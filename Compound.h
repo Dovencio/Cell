@@ -12,7 +12,7 @@ class Compound
         Compound();
         virtual ~Compound();
 
-        int GetGroupNum(int loc) { return Material[loc].Getnum(); }
+        int GetGroupNum(int loc) { return Material[loc].Getnumof(); }
         Element GetGroupEle(int loc) { return Material[loc].GetElement(); }
 
     protected:

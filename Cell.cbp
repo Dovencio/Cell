@@ -41,7 +41,6 @@
 		<Unit filename="Compound.h" />
 		<Unit filename="EGroup.cpp" />
 		<Unit filename="EGroup.h" />
-		<Unit filename="EleList.h" />
 		<Unit filename="Element.cpp" />
 		<Unit filename="Element.h" />
 		<Unit filename="ElementList.h" />

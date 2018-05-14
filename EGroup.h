@@ -12,16 +12,16 @@ class EGroup
         EGroup();
         virtual ~EGroup();
 
-        Element GetElement() { return element; }
-        void SetElement(Element val) { element = val; }
-        int Getnum() { return num; }
-        void Setnum(int val) { num = val; }
+        Element GetElement() { return ele; }
+        void SetElement(Element val) { ele = val; }
+        int Getnumof() { return numof; }
+        void Setnumof(int val) { numof = val; }
 
     protected:
 
     private:
         Element ele;
-        int num;
+        int numof;
 };
 
 #endif // EGROUP_H
