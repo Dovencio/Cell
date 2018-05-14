@@ -2,7 +2,7 @@
 
 EGroup::EGroup()
 {
-    //ctor
+
 }
 
 EGroup::~EGroup()
