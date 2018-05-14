@@ -8,7 +8,7 @@ using namespace std;
 class Element
 {
     public:
-        Element();
+        Element(string Nname, int Nnumber, int Nweight, bool poison);
         virtual ~Element();
 
         string Getname() { return name; }

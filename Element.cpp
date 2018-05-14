@@ -1,8 +1,11 @@
 #include "Element.h"
 
-Element::Element()
+Element::Element(string Nname, int Nnumber, int Nweight, bool poison)
 {
-
+    this->Setname(Nname);
+    this->Setnumber(Nnumber);
+    this->Setweight(Nweight);
+    this->SetIsPoison(poison);
 }
 
 Element::~Element()

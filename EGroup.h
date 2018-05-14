@@ -20,7 +20,7 @@ class EGroup
     protected:
 
     private:
-        Element element;
+        Element ele;
         int num;
 };
 
